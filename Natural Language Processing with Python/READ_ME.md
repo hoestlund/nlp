@@ -1,1 +1,0 @@
-This folder contains the worked along exercises from the book Natural Language Processing with Python – _Analyzing Text with the Natural Language Toolkit_ by Bird, Klein, and Loper which is made available on the NLTK website at http://www.nltk.org/book/.
